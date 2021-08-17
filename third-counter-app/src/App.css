@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: black;
+  background:#DDD6FE;
+}
+header
+{
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  color:black;
+  background-color:
+  #93C5FD;
+}
+
+button {
+  color: #ffffff;
+  padding: 5px 25px;
+  margin: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  width: 300px;
+  border-color: #000000;
+  border-radius: 15px;
+  background-color:#8B5CF6 ;
+}
